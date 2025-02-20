@@ -15,4 +15,12 @@ Leetcode optimized solutions
 | [1153-product-sales-analysis-i](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/1161-project-employees-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
