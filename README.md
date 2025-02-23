@@ -28,6 +28,7 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
@@ -55,6 +56,7 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
@@ -72,5 +74,6 @@ Leetcode optimized solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
