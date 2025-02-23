@@ -52,9 +52,11 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -76,4 +78,8 @@ Leetcode optimized solutions
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
