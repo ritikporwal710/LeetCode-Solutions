@@ -28,6 +28,7 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Leetcode optimized solutions
 | [0018-4sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +53,17 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
