@@ -82,4 +82,12 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
