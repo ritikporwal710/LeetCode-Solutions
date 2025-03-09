@@ -21,6 +21,7 @@ Leetcode optimized solutions
 | [0001-two-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ Leetcode optimized solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## String
@@ -100,4 +102,8 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
