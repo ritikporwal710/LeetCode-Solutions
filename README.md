@@ -25,6 +25,7 @@ Leetcode optimized solutions
 | [0088-merge-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ Leetcode optimized solutions
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
