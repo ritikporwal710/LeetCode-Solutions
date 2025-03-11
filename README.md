@@ -25,6 +25,7 @@ Leetcode optimized solutions
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -59,6 +60,7 @@ Leetcode optimized solutions
 | [0053-maximum-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
 | ------- |
