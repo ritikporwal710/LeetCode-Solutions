@@ -19,6 +19,7 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@ Leetcode optimized solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -115,4 +117,8 @@ Leetcode optimized solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
