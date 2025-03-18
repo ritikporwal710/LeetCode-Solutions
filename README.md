@@ -50,6 +50,7 @@ Leetcode optimized solutions
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -67,11 +68,13 @@ Leetcode optimized solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
