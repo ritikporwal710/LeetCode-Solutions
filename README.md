@@ -28,6 +28,7 @@ Leetcode optimized solutions
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,6 +105,7 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
@@ -153,4 +155,5 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
