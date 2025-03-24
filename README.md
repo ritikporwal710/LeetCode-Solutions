@@ -23,6 +23,7 @@ Leetcode optimized solutions
 | [0015-3sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -104,6 +105,7 @@ Leetcode optimized solutions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
