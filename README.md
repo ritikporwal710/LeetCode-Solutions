@@ -26,6 +26,7 @@ Leetcode optimized solutions
 | [0053-maximum-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -102,6 +103,7 @@ Leetcode optimized solutions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
@@ -147,4 +149,8 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
