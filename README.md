@@ -73,6 +73,7 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -169,4 +170,12 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
