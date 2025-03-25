@@ -1,33 +1,26 @@
 class Solution {
 public:
-    void setZeroes(vector<vector<int>>&v) {
-        int m = v.size(),n = v[0].size();
-        unordered_map<int,int> m1,m2;
-        for(int i=0;i<m;++i)
-        {
-            for(int j=0;j<n;++j)
-            {
-                if(v[i][j] ==0)
-                {
-                    m1[i]++;
-                    m2[j]++;
+    void setZeroes(vector<vector<int>>& v)   {
+        int n = v.size();
+        int m = v[0].size();
+        unordered_map<int,int> mp1,mp2;
+        for(int i =0;i<n;++i){
+            for(int j=0;j<m;++j){
+                if(v[i][j] == 0){
+                    mp1[i] =0;
+                    mp2[j] =0;
                 }
-                  
             }
         }
 
-        for(int i=0;i<m;++i)
-        {
-            for(int j=0;j<n;++j)
-            {
-                if(m1[i]>0 || m2[j]>0)
-                v[i][j] =0;
-                  
+        for(int i =0;i<n;++i){
+            for(int j =0;j<m;++j){
+                if((mp1.find(i) != mp1.end()) || (mp2.find(j) != mp2.end())){
+                    v[i][j] =0;
+                }
             }
         }
 
-        
-        
-        
+        return;
     }
 };
