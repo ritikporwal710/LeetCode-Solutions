@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        if(n==1 || n== 2) return n;
-        vector<int> v(n+1,0);
-        v[1] = 1;v[2] = 2;
-
-        for(int i =3;i<=n;++i){
-            v[i] = v[i-1] + v[i-2];
-        }
+    int countStair(vector<int>&v, int n){
+        if(n==1 || n ==2) return n;
+        if(v[n] != -1 ) return v[n];
+        v[n] = countStair(v,n-1) + countStair(v,n-2);
 
         return v[n];
+    }
+    int climbStairs(int n) {
+        vector<int> v(n+1,-1);
+       return countStair(v,n);
     }
 };
