@@ -35,6 +35,7 @@ Leetcode optimized solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Hash Table
@@ -77,6 +78,7 @@ Leetcode optimized solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -178,4 +180,8 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
