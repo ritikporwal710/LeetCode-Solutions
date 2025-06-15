@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minCoin(int n, vector<int>&v, int ct, int amount, int ind, vector<vector<int>> &dp){
-        if(ind == n-1 || amount ==0){
+        if(ind == n-1){
             if(amount%v[ind] == 0) return amount/v[ind];
             else return 1e9;
         }
@@ -20,7 +20,7 @@ public:
         return min(take, notTake);
     }
     int coinChange(vector<int>& v, int amount) {
-        sort(v.begin(),v.end(), greater<int>());
+        // sort(v.begin(),v.end(), greater<int>());
  
         int n = v.size();
 
