@@ -20,7 +20,7 @@ public:
         return min(take, notTake);
     }
     int coinChange(vector<int>& v, int amount) {
-        // sort(v.begin(),v.end(), greater<int>());
+        sort(v.begin(),v.end(), greater<int>());
  
         int n = v.size();
 
