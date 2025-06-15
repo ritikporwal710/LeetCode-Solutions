@@ -1,13 +1,11 @@
 class Solution {
 public:
     int minCoin(int n, vector<int>&v, int ct, int amount, int ind, vector<vector<int>> &dp){
-        // if(amount == 0 ) return 0;
         if(ind == n-1 || amount ==0){
             if(amount%v[ind] == 0) return amount/v[ind];
             else return 1e9;
         }
 
-        // cout<<dp[ind][amount]<<endl;
 
         if(dp[ind][amount] != -1) return dp[ind][amount];
 
@@ -22,11 +20,8 @@ public:
         return min(take, notTake);
     }
     int coinChange(vector<int>& v, int amount) {
-        sort(v.begin(),v.end(), greater<int>());
-        // for(auto x: v){
-        //     cout<<x<<" ";
-        // }
-        // cout<<endl;
+        // sort(v.begin(),v.end(), greater<int>());
+ 
         int n = v.size();
 
         // if(amount == 0 ) return 0;
