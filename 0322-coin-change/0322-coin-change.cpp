@@ -1,38 +1,40 @@
 class Solution {
 public:
-    int coinMaker(vector<vector<int>> &ans, vector<int> &v, int sum, int n, int ind){
-        // cout<<v[ind]<<endl;
-        
-        if(ind==0){
-           if(sum%v[ind] ==0) {
-            ans[ind][sum] = sum/v[ind];
-           }else{
-            ans[ind][sum] = 1e9;
-           }
-
-           return ans[ind][sum];
+    int minCoin(int n, vector<int>&v, int ct, int amount, int ind, vector<vector<int>> &dp){
+        if(amount == 0 ) return 0;
+        if(ind == n-1){
+            if(amount!=0 && amount%v[ind] == 0) return amount/v[ind];
+            else return 1e9;
         }
 
+        // cout<<dp[ind][amount]<<endl;
 
-        if(ans[ind][sum] !=-1) return ans[ind][sum];
-        int one = INT_MAX;
-        if(v[ind] <= sum)
-        one = 1 + coinMaker(ans, v,sum-v[ind],n,ind);
-        int two = coinMaker(ans, v,sum, n, ind-1);
-        ans[ind][sum] = min(one,two);
-        return min(one,two);
+        if(dp[ind][amount] != -1) return dp[ind][amount];
+
+        
+        int notTake = 0 + minCoin(n, v, ct, amount,ind+1, dp);
+        int take = INT_MAX;
+        if(v[ind]<=amount)
+        take = 1 + minCoin(n, v, ct + 1, amount-v[ind], ind, dp);
+
+        dp[ind][amount] = min(take, notTake);
+
+        return min(take, notTake);
     }
     int coinChange(vector<int>& v, int amount) {
-        int n = v.size();
-        vector<vector<int>> ans(n, vector<int> (amount+1,-1));
-        // for(int i =0;i<=amount;++i){
-        //     ans[0][i] = amount%v[0] == 0 ? amount/v[0] : 1e9;
+        sort(v.begin(),v.end(), greater<int>());
+        // for(auto x: v){
+        //     cout<<x<<" ";
         // }
-     
+        // cout<<endl;
+        int n = v.size();
 
-        int p = coinMaker(ans,v, amount, n, n-1);
+        // if(amount == 0 ) return 0;
 
-        if(p== 1e9) return -1;
-        return p;
+        vector<vector<int>> dp(n+1,vector<int>(amount+1,-1));
+        int ans = minCoin(n,v,0, amount, 0, dp);
+
+        if(ans == 1e9) return -1;
+        return ans;
     }
 };
