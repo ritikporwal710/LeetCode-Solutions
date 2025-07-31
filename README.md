@@ -80,6 +80,7 @@ Leetcode optimized solutions
 | [0152-maximum-product-subarray](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Leetcode optimized solutions
 | [0424-longest-repeating-character-replacement](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
