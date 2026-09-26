@@ -203,18 +203,29 @@ Leetcode optimized solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
