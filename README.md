@@ -197,11 +197,13 @@ Leetcode optimized solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -216,6 +218,7 @@ Leetcode optimized solutions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ritikporwal710/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
