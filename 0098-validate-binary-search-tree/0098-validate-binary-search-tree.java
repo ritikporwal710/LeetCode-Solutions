@@ -14,16 +14,14 @@
  * }
  */
 class Solution {
-    public boolean validate(TreeNode root, long mini, long maxi){
-        if(root == null) return true; 
-        if(root.val <= mini || root.val >=maxi) return false; 
+    boolean validate(TreeNode root, long mini, long maxi){
+        if(root == null) return true;
+        if(root.val <= mini || root.val >= maxi) return false; 
 
-        return validate(root.left, mini, root.val) && validate(root.right, root.val, maxi); 
+        return validate(root.left, mini, root.val) && validate(root.right, root.val, maxi);
     }
     public boolean isValidBST(TreeNode root) {
-        long mini = Long.MIN_VALUE, maxi = Long.MAX_VALUE;
-        boolean ans = validate(root,mini, maxi);
-
-        return ans; 
+        long left = Long.MIN_VALUE, right = Long.MAX_VALUE; 
+        return validate(root,left,right);
     }
 }
